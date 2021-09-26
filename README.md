@@ -1,2 +1,2 @@
-# bryce505.github.com
+# bryce505.github.io
 个人网站
